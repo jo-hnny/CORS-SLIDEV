@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build --base /CROS-SLIDEV",
+    "build": "slidev build --base /CORS-SLIDEV",
     "dev": "slidev --open",
     "export": "slidev export"
   },
@@ -10,5 +10,5 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "cros-slidev"
+  "name": "cors-slidev"
 }
