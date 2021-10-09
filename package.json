@@ -1,12 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "dev": "slidev --open",
     "build": "slidev build --base /CROS-SLIDEV",
+    "dev": "slidev --open",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.6.11",
+    "@slidev/cli": "^0.27.6",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
